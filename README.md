@@ -2,7 +2,7 @@
 Dynamic DNS update client for ipv6 Windows hosting (currently for dynv6.com) 
 
 
-This is basically a fork from Chriv's "Dynephant", but more visible to the open public than just the fork.dy
+This is basically a fork from Chriv's "Dynephant", but more visible to the open public than just the fork.
 ddnsmouse is a simple, open-source Dynamic DNS (DDNS) client for Windows. It was written because, at the time of it's creation, very few DDNS services had support for IPv6. More specifically, dynv6.com, a DDNS service, had support for IPv6, but no real Windows client.
 
 It can be run either as an AutoIt3 script (requiring AutoIt3 to be installed), or a pre-compiled executable (requiring no runtime not already part of Windows). The dependency on IE for HTTPS creates some intrinsic limitations on reporting of errors (namely, that errors are known, but the cause is not automatically).
