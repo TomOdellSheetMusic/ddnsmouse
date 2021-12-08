@@ -50,6 +50,6 @@ The following example assumes your Fully Qualified Domain Name (FQDN)
 for your host name is foobar.dynv6.net, and your authentication token
 is randomtextforfoobarhere:
 
-``bat
+```
 dynephant -host=foobar -token=randomtextforfoobarhere -6 -daemon=600
-
+```
