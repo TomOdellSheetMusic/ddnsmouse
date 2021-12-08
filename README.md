@@ -51,5 +51,5 @@ for your host name is foobar.dynv6.net, and your authentication token
 is randomtextforfoobarhere:
 
 ```
-dynephant -host=foobar -token=randomtextforfoobarhere -6 -daemon=600
+%cd%\ddnsmouse.exe -host=foobar -token=randomtextforfoobarhere -6 -daemon=600
 ```
