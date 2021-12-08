@@ -1,5 +1,5 @@
 # ddnsmouse
-Dynamic DNS client for ipv6 Windows hosting (currently for dynv6.com) 
+Dynamic DNS update client for ipv6 Windows hosting (currently for dynv6.com) 
 
 
 This is basically a fork from Chriv's "Dynephant", but more visible to the open public than just the fork.dy
