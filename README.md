@@ -13,12 +13,12 @@ Currently there is only one exe which doesn't close automatically once you run i
 * [License](#license)
 * [Usage](#usage)
 
-##Prerequisites
+## Prerequisites
 
 * A relatively current version of Windows
 * Internet Explorer 3 or higher installed
 
-##License
+## License
 
 ddnsmouse is licensed using the (extremely permissive) MIT license, as to the wishes of Chriv.
 See the LICENSE.txt file.
@@ -26,7 +26,7 @@ See the LICENSE.txt file.
 The included icon is courtesy of https://pixabay.com/de/vectors/mouse-origami-papier-fold-kunst-4695476/
 (link back not required by author if used)
 
-##Usage
+## Usage
 
 First, you need an account with dynv6.com, with at least one host (zone) and one record.
 
